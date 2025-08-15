@@ -1,6 +1,6 @@
 # Cr8rFlow: Empowering Creators with Programmable Royalties on Mantle
 
-**Cr8rFlow** is a Solidity smart contract built for the **Mantle Cookathon 4** (@0xMantleDevs), enabling creators to mint ERC721 NFTs with automated royalty splits, real-time payouts, and tiered fan access. Deployed on Mantle’s low-cost, high-speed Layer 2 blockchain, Cr8rFlow empowers artists, musicians, and content creators to monetize their work transparently and engage fans through exclusive NFT-based perks, fostering direct creator-fan relationships without centralized platforms.
+**Cr8rFlow** is a project built for the **Mantle Cookathon 4** (@0xMantleDevs), enabling creators to mint ERC721 NFTs with automated royalty splits, real-time payouts, and tiered fan access. Deployed on Mantle’s low-cost, high-speed Layer 2 blockchain, Cr8rFlow empowers artists, musicians, and content creators to monetize their work transparently and engage fans through exclusive NFT-based perks, fostering direct creator-fan relationships without centralized platforms.
 
 ## Project Overview
 
@@ -23,12 +23,9 @@ Cr8rFlow is a programmable royalty engine designed to decentralize content monet
 Cr8rFlow leverages Mantle’s high-speed, low-cost Layer 2 infrastructure to make NFT minting, royalty distribution, and fan interactions affordable and scalable. Mantle’s ecosystem ensures creators and fans can engage without high gas fees, aligning with the Cookathon’s focus on innovative, user-friendly Web3 solutions.
 
 ## MVP Status
-The Cr8rFlow MVP is fully functional, with:
-- A Solidity 0.8.20 contract (`src/Cr8rFlow.sol`) implementing ERC721 with custom royalty and perk logic.
-- Getter functions for reliable data access (`getProjectName`, `getTokenRoyaltySplitsLength`, `getTokenTiersLength`, etc.).
-- A comprehensive test suite (`test/Cr8rFlow.t.sol`) ensuring robustness across all features.
-- Event emissions for transparency (`ProjectCreated`, `ContentMinted`, `RevenueDistributed`, etc.).
-- Gas-optimized design for Mantle testnet deployment.
+The Cr8rFlow MVP has following completed:
+- A Solidity contract (`Cr8rFlow.sol`) implementing ERC721 with custom royalty and perk logic.
+- A stunning landing page with a Neo-style cyberpunk aesthetic.
 
 The MVP is ready for testnet deployment and frontend integration, demonstrating a scalable solution for creator economies.
 
