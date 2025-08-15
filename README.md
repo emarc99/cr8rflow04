@@ -2,6 +2,11 @@
 
 **Cr8rFlow** is a project built for the **Mantle Cookathon 4** (@0xMantleDevs), enabling creators to mint ERC721 NFTs with automated royalty splits, real-time payouts, and tiered fan access. Deployed on Mantle’s low-cost, high-speed Layer 2 blockchain, Cr8rFlow empowers artists, musicians, and content creators to monetize their work transparently and engage fans through exclusive NFT-based perks, fostering direct creator-fan relationships without centralized platforms.
 
+
+![mantle-gif](https://github.com/user-attachments/assets/db3baf0f-35b3-4445-a3de-b8e0ffadc822)
+
+
+
 ## Project Overview
 
 Cr8rFlow is a programmable royalty engine designed to decentralize content monetization and fan engagement. Creators can group NFTs into projects (e.g., albums, art collections), define royalty splits for collaborators, and offer tiered perks (e.g., bonus tracks, VIP access) to fans based on NFT ownership. The contract ensures fair, transparent revenue distribution and tracks fan engagement on-chain, leveraging Mantle’s scalability to make Web3 accessible and affordable.
